@@ -18,7 +18,7 @@ body {
                  Ans: The main reason this is used is because sometimes the browser will apply it's default margin/padding to elements, and in a case where you do not want there to be any margin or padding space around an element you will want to define that there is no margin or padding.
                 */
 }
-
+a{transition:0.2s;}
 .intro {
   top: 0;       /*Set the top edge of the positioned element*/
                 /* If the value is 0 then why we're specifing?
